@@ -1,0 +1,3 @@
+Projeto
+Motivado pelas restrições 160501105710 160501105711
+Deve ser criada uma infraestrutura de comunicação que não pertença a qualquer pessoa, que não possa ser interrompida pela vontade de alguém e que não identifique aqueles participantes que assim não o desejarem.
